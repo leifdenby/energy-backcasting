@@ -1,0 +1,6 @@
+xarray
+cdsapi
+jupyter
+nb_black
+matplotlib
+nc-time-axis
